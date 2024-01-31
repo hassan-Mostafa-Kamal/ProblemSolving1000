@@ -1,0 +1,14 @@
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\bin\Debug\net6.0\ProblemSolving1000.exe
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\bin\Debug\net6.0\ProblemSolving1000.deps.json
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\bin\Debug\net6.0\ProblemSolving1000.runtimeconfig.json
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\bin\Debug\net6.0\ProblemSolving1000.dll
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\bin\Debug\net6.0\ProblemSolving1000.pdb
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.GeneratedMSBuildEditorConfig.editorconfig
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.AssemblyInfoInputs.cache
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.AssemblyInfo.cs
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.csproj.CoreCompileInputs.cache
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.dll
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\refint\ProblemSolving1000.dll
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.pdb
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ProblemSolving1000.genruntimeconfig.cache
+D:\self-projects\New folder\ProblemSolving1000\ProblemSolving1000\obj\Debug\net6.0\ref\ProblemSolving1000.dll
